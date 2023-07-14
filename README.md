@@ -34,6 +34,7 @@
   <code><img height="40" width="40" src="https://skillicons.dev/icons?i=c#"></code>
   <code><img height="40" width="40" src="https://skillicons.dev/icons?i=androidstudio"></code>
   <code><img height="40" width="40" src="https://skillicons.dev/icons?i=eclipse"></code>
+  <code><img height="40" width="40" src="https://skillicons.dev/icons?i=postman"></code>
 
  ---
 
